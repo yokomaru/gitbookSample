@@ -1,0 +1,17 @@
+{
+  "plugins": [
+    "-sharing",
+    "uml",
+    "livereload"
+  ],
+  "pluginsConfig": {
+    "uml": {
+      "charset" : "UTF-8"
+    }
+  },
+  "styles": {
+    "website": "styles/website.css",
+    "pdf": "styles/pdf.css",
+    "language": "ja"
+  }
+}
